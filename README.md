@@ -42,8 +42,8 @@ pnpm add shipynet
 ### *3.1. shipynet İçeri Aktarma ve Ayarları Yapmak*
 
 ```js
-const shipynet = require('shipynet');
-const shipynet = new shipynet('API_KEY');
+const Shipynet = require('shipynet');
+const shipynet = new Shipynet('API_KEY');
 ```
 
 ### *3.2. Kredi veya Banka Kartı ile Ödeme Yapmak*
