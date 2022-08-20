@@ -1,0 +1,28 @@
+{
+  "name": "shipynet",
+  "version": "0.0.1",
+  "description": "Shipnet sanal pos için bir nodejs modülü",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimyuksel0/shipynet.git"
+  },
+  "keywords": [
+    "shipynet",
+    "sanalpos",
+    "api"
+  ],
+  "author": "losenly",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ibrahimyuksel0/shipynet/issues"
+  },
+  "homepage": "https://github.com/ibrahimyuksel0/shipynet#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto": "^1.0.1"
+  }
+}
